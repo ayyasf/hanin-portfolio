@@ -1,0 +1,50 @@
+export const featuredProjects = [
+    {
+        id: "1",
+        title: "PostManager",
+        image: "/assets/image/task4.png",
+        demoLink: "https://ayyasf.github.io/task4/",
+        githubLink: "https://github.com/ayyasf/task4",
+        date: "12-6-2025",
+        details:" A dynamic web application for managing blog posts with full CRUD operations. Features include fetching posts from JSONPlaceholder API, displaying posts in a clean layout, adding new posts, editing existing ones, and deleting posts with confirmation. Built with vanilla JavaScript and modern CSS.",
+        framework: "None",
+        library: "API Fetch",
+        tech: "HTML , CSS , JavaScript , API"
+    },
+    {
+        id: "2",
+        title: "UniTrack",
+        image: "/assets/image/unitrack.png",
+        demoLink: "https://ayyasf.github.io/unitrack/",
+        githubLink: "https://github.com/ayyasf/unitrack",
+        date: "15-7-2025",
+        details:"A comprehensive academic project management platform built with React. Features include student-supervisor matching system, filtering by academic specialties, project tracking, and role-based dashboards for students and professors.Includes multi-page navigation with React Router DOM.",
+        tech: "CSS , React",
+        framework: "React",
+        library: "React Router DOM",
+    },
+    {
+        id: "3",
+        title: "AdminPro ",
+        image: "/assets/image/dashboard.png",
+        demoLink: "https://ayyasf.github.io/vite-project/",
+        githubLink: "https://github.com/ayyasf/vite-project",
+        date: "3-8-2025",
+        details:" A full-featured admin dashboard with complete authentication system and product management. Includes user login/register, JWT authentication, full CRUD operations for products, advanced search functionality, and dark mode toggle. Built with modern React ecosystem.",
+        framework: "React",
+        library: "Tailwind CSS, React Router DOM, React Icons, React Toastify",
+        tech: "React, Tailwind, Router"
+    },
+    {
+        id: "4", 
+        title: "HomeFinder",
+        image: "/assets/image/flora.png",
+        demoLink: "https://ayyasf.github.io/flora/",
+        githubLink: "https://github.com/ayyasf/flora",
+        date: "1-6-2025",
+        details:" A responsive real estate website showcasing property listings with clean and modern design.Displays houses for sale with basic information and contact details. Fully mobile-friendly layout that works perfectly on all devices.",
+        framework: "None",
+        library: "None",
+        tech: "HTML , CSS"
+    }
+]
