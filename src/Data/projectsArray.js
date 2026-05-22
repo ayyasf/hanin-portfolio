@@ -1,21 +1,8 @@
 export const projects = [
   {
-    id: "1",
-    title: "Ski Lovers Website",
-    image: "/assets/image/sky.png",
-    demoLink: "https://ayyasf.github.io/Task4Lv1/",
-    githubLink: "https://github.com/ayyasf/Task4Lv1",
-    date: "12-5-2025",
-    details:"An interactive website dedicated to ski enthusiasts, featuring information about top ski resorts beginner tips, equipment guides, and a community section for skiers to connect. Designed with a clean, winter-themed interface that provides an engaging user experience for winter sports lovers.",
-    language: "HTML, CSS",
-    framework: "None",
-    library: "None",
-    tech: "HTML , CSS"
-  },
-  {
-    id: "2", 
+    id: "1", 
     title: "HomeFinder",
-    image: "/assets/image/flora.png",
+    image: "/hanin-portfolio/assets/image/flora.png",
     demoLink: "https://ayyasf.github.io/flora/",
     githubLink: "https://github.com/ayyasf/flora",
     date: "1-6-2025",
@@ -25,9 +12,9 @@ export const projects = [
     tech: "HTML , CSS"
   },
   {
-    id: "3",
+    id: "2",
     title: "PostManager",
-    image: "/assets/image/task4.png",
+    image: "/hanin-portfolio/assets/image/task4.png",
     demoLink: "https://ayyasf.github.io/task4/",
     githubLink: "https://github.com/ayyasf/task4",
     date: "12-6-2025",
@@ -37,9 +24,9 @@ export const projects = [
     tech: "HTML , CSS , JavaScript , API"
   },
   {
-    id: "4",
+    id: "3",
     title: "EduPlatform",
-    image: "/assets/image/mid.png",
+    image: "/hanin-portfolio/assets/image/mid.png",
     demoLink: "https://ayyasf.github.io/my-project/",
     githubLink: "https://github.com/ayyasf/my-project",
     date: "23-6-2025",
@@ -49,9 +36,9 @@ export const projects = [
     tech: "HTML , CSS",
   },
   {
-    id: "5",
+    id: "4",
     title: "UniTrack",
-    image: "/assets/image/unitrack.png",
+    image: "/hanin-portfolio/assets/image/unitrack.png",
     demoLink: "https://ayyasf.github.io/unitrack/",
     githubLink: "https://github.com/ayyasf/unitrack",
     date: "15-7-2025",
@@ -61,9 +48,9 @@ export const projects = [
     library: "React Router DOM",
   },
   {
-    id: "6",
+    id: "5",
     title: "AdminPro ",
-    image: "/assets/image/dashboard.png",
+    image: "/hanin-portfolio/assets/image/dashboard.png",
     demoLink: "https://ayyasf.github.io/vite-project/",
     githubLink: "https://github.com/ayyasf/vite-project",
     date: "3-8-2025",
@@ -71,5 +58,17 @@ export const projects = [
     framework: "React",
     library: "Tailwind CSS, React Router DOM, React Icons, React Toastify",
     tech: "React, Tailwind, Router"
-  }
+  },
+  {
+  id: "6",
+  title: "E-Commerce Store",
+  image: "/hanin-portfolio/assets/image/my-store.png",
+  demoLink: "https://ayyasf.github.io/my-store/",
+  githubLink: "https://github.com/ayyasf/my-store",
+  date: "14-5-2026",
+  details: "A multi-category e-commerce web application built with React. Browse products across categories like clothing and home essentials, view detailed product pages with image galleries, search by name, manage your cart with add and delete options, and save your favorites.",
+  framework: "React",
+  library: "React Router DOM, CSS3, Swiper.js, React Hot Toast, React Icons, Framer Motion",
+  tech: "React, API Integration"
+},
 ]

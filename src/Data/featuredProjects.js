@@ -2,7 +2,7 @@ export const featuredProjects = [
     {
         id: "1",
         title: "PostManager",
-        image: "/assets/image/task4.png",
+        image: "/hanin-portfolio/assets/image/task4.png",
         demoLink: "https://ayyasf.github.io/task4/",
         githubLink: "https://github.com/ayyasf/task4",
         date: "12-6-2025",
@@ -14,7 +14,7 @@ export const featuredProjects = [
     {
         id: "2",
         title: "UniTrack",
-        image: "/assets/image/unitrack.png",
+        image: "/hanin-portfolio/assets/image/unitrack.png",
         demoLink: "https://ayyasf.github.io/unitrack/",
         githubLink: "https://github.com/ayyasf/unitrack",
         date: "15-7-2025",
@@ -26,7 +26,7 @@ export const featuredProjects = [
     {
         id: "3",
         title: "AdminPro ",
-        image: "/assets/image/dashboard.png",
+        image: "/hanin-portfolio/assets/image/dashboard.png",
         demoLink: "https://ayyasf.github.io/vite-project/",
         githubLink: "https://github.com/ayyasf/vite-project",
         date: "3-8-2025",
@@ -38,7 +38,7 @@ export const featuredProjects = [
     {
         id: "4", 
         title: "HomeFinder",
-        image: "/assets/image/flora.png",
+        image: "/hanin-portfolio/assets/image/flora.png",
         demoLink: "https://ayyasf.github.io/flora/",
         githubLink: "https://github.com/ayyasf/flora",
         date: "1-6-2025",

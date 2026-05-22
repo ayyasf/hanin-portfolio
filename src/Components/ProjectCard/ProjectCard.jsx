@@ -20,7 +20,6 @@ const ProjectCard = ({ id, title, tech, image, demoLink }) => {
           >
             <FaExpand />
           </button>
-
           {/* Demo Button */}
           <a
             href={demoLink}
