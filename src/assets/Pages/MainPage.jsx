@@ -61,14 +61,14 @@ const MainPage = ({ setActiveSection }) => {
         {/* Home Content */}
         <div className="w-full md:w-1/2 mb-10 md:mb-0 text-center md:text-left z-10">
           <h1 className="text-3xl sm:text-5xl font-bold mb-4 text-mysecondary dark:text-white">
-            <span className="font-semibold">HEY,</span> I'm{" "}
+            <span className="font-semibold">HEY,</span> I'm
             <span className="text-myprimary dark:text-blue-400">Hanin</span>
           </h1>
           <p className="text-lg text-[#43495B] mb-5 dark:text-white">
-            I'm a passionate developer who loves building beautiful and functional web experiences. I specialize in{" "}
+            I'm a passionate developer who loves building beautiful and functional web experiences. I specialize in
             <span className="text-myprimary">front-end development</span> and responsive design.
           </p>
-          <Button href="#" label=" Download CV" icon={<HiArrowUpRight className="text-2xl" />} />
+          <Button href="/hanin-portfolio/assets/cv/Hanin_Ayyash_CV_v3.pdf"  download="Hanin_CV.pdf" label="DownLoad Cv"  icon={<HiArrowUpRight className="text-2xl" />} />
         </div>
 
         {/* Profile image */}
