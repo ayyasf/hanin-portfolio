@@ -68,7 +68,7 @@ const MainPage = ({ setActiveSection }) => {
             I'm a passionate developer who loves building beautiful and functional web experiences. I specialize in
             <span className="text-myprimary">front-end development</span> and responsive design.
           </p>
-          <Button href="/hanin-portfolio/assets/cv/Hanin_Ayyash_CV_v3.pdf"  download="Hanin_CV.pdf" label="DownLoad Cv"  icon={<HiArrowUpRight className="text-2xl" />} />
+          <Button href="/hanin-portfolio/assets/cv/Hanin_Ayyash_CV.pdf"  download="Hanin_CV.pdf" label="DownLoad Cv"  icon={<HiArrowUpRight className="text-2xl" />} />
         </div>
 
         {/* Profile image */}

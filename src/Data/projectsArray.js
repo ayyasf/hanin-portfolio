@@ -1,18 +1,6 @@
 export const projects = [
   {
-    id: "1", 
-    title: "HomeFinder",
-    image: "/hanin-portfolio/assets/image/flora.png",
-    demoLink: "https://ayyasf.github.io/flora/",
-    githubLink: "https://github.com/ayyasf/flora",
-    date: "1-6-2025",
-    details:" A responsive real estate website showcasing property listings with clean and modern design.Displays houses for sale with basic information and contact details. Fully mobile-friendly layout that works perfectly on all devices.",
-    framework: "None",
-    library: "None",
-    tech: "HTML , CSS"
-  },
-  {
-    id: "2",
+    id: "1",
     title: "PostManager",
     image: "/hanin-portfolio/assets/image/task4.png",
     demoLink: "https://ayyasf.github.io/task4/",
@@ -24,7 +12,7 @@ export const projects = [
     tech: "HTML , CSS , JavaScript , API"
   },
   {
-    id: "3",
+    id: "2",
     title: "EduPlatform",
     image: "/hanin-portfolio/assets/image/mid.png",
     demoLink: "https://ayyasf.github.io/my-project/",
@@ -36,7 +24,7 @@ export const projects = [
     tech: "HTML , CSS",
   },
   {
-    id: "4",
+    id: "3",
     title: "UniTrack",
     image: "/hanin-portfolio/assets/image/unitrack.png",
     demoLink: "https://ayyasf.github.io/unitrack/",
@@ -48,7 +36,7 @@ export const projects = [
     library: "React Router DOM",
   },
   {
-    id: "5",
+    id: "4",
     title: "AdminPro ",
     image: "/hanin-portfolio/assets/image/dashboard.png",
     demoLink: "https://ayyasf.github.io/vite-project/",
@@ -60,7 +48,7 @@ export const projects = [
     tech: "React, Tailwind, Router"
   },
   {
-  id: "6",
+  id: "5",
   title: "E-Commerce Store",
   image: "/hanin-portfolio/assets/image/my-store.png",
   demoLink: "https://ayyasf.github.io/my-store/",
@@ -71,4 +59,16 @@ export const projects = [
   library: "React Router DOM, CSS3, Swiper.js, React Hot Toast, React Icons, Framer Motion",
   tech: "React, API Integration"
 },
+{
+  id: "6",
+  title: "NFT Marketplace",
+  image: "/hanin-portfolio/assets/image/nft-marketplace.png",
+  demoLink: "https://ayyasf.github.io/nft-marketplace/",
+  githubLink: "https://github.com/ayyasf/nft-marketplace",
+  date: "18-8-2026",
+  details: "A full-stack NFT Marketplace built on TON Blockchain (Testnet). Users can create, list, buy, and re-sell digital assets using TON cryptocurrency. Features real-time TON/USD price via CoinGecko API, blockchain payment verification through TonAPI, and a complete transaction management system.",
+  framework: "React + Vite",
+  library: "React Router DOM, React Toastify, React Icons, CSS3",
+  tech: "React, TON Blockchain, TonAPI, CoinGecko API, REST API Integration"
+}
 ]
